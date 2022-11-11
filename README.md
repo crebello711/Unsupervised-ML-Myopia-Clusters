@@ -8,5 +8,5 @@ You are on the data science team of a medical research company that’s interest
 
 You have been provided with raw data, so you’ll first need to process it to fit the machine learning models. You will use several clustering algorithms to explore whether the patients can be placed into distinct groups. Then, you’ll create a visualization to share your findings with your team and other key stakeholders.
 
-#### `Analysis Code` : ![] 
+#### `Analysis Code` : ![unsupervised_ML.ipynb] 
 #### `Recommendation` : It is inconclusive to determine if the patients can be clustered into whether they have or does not have myopia.There were 618 samples with 14 variables. After scaling the data and reducing the dimensions, the pca was reduced to 618 sample with 2 components. If additional dimensions were added, the data would likely allow us to show some clusters and determine the outcome.
